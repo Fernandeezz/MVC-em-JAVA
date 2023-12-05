@@ -7,3 +7,5 @@ Foram utilizadas as seguintes Ferramentas:
   - Insomnia;
   - Spring Initializr;
   - Heidi SQL.
+
+Copyright © 2023 - Fernandeezz, Lais2810 e Nycolas-Rafa.
